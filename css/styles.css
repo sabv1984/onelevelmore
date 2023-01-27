@@ -1,0 +1,21 @@
+*{
+    margin: 0,5%;
+    padding: 0,5%;
+}
+p
+{
+    font-size: 15px;
+}
+
+header{
+    background-color: brown;
+}
+
+button a {
+    padding: 10px;
+    margin: 10px;
+    border: 1px;
+}
+footer{
+    background-color: black;
+}
