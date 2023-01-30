@@ -9,6 +9,7 @@ p
 }
 
 header{
+    height: 25vh;
     background-color: brown;
     text-align: center;
 }
@@ -25,7 +26,12 @@ button{
     font-weight: bold; 
     text-decoration: underline;
 }
+main{
+    height: 160vh;
+
+}
 footer{
+    height: 20vh;
     background-color: brown;
     }
    
