@@ -1,21 +1,38 @@
 *{
     margin: 0,5%;
     padding: 0,5%;
+    font-size: 20px
 }
 p
 {
-    font-size: 15px;
+    font-size: 20px;
 }
 
 header{
+    height: 25vh;
     background-color: brown;
+    text-align: center;
 }
 
-button a {
-    padding: 10px;
-    margin: 10px;
+nav{
+    margin: 1%;
+    border: 1%;
+}
+button{
+    padding: 5px;
+    margin: 5px;
     border: 1px;
+    background-color: brown;
+    font-weight: bold; 
+    text-decoration: underline;
+}
+main{
+    height: 160vh;
+
 }
 footer{
-    background-color: black;
-}
+    height: 20vh;
+    background-color: brown;
+    }
+   
+   
